@@ -91,7 +91,7 @@ Develop a CNN classifier that can accurately identify ship types from low-resolu
 
 2. Navigate to the project directory:
    ```bash
-   cd ship-detection
+   cd deep-learning
    ```
 
 3. Follow the instructions in the project documentation to set up your environment and execute the code.
