@@ -31,7 +31,7 @@ Employ the UNet segmentation architecture to develop an effective model for infa
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/deep-learning.git
+   git clone https://github.com/Rickil/deep-learning.git
    ```
 
 2. Navigate to the project directory:
@@ -86,7 +86,7 @@ Develop a CNN classifier that can accurately identify ship types from low-resolu
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ship-detection.git
+   git clone https://github.com/Rickil/deep-learning.git
    ```
 
 2. Navigate to the project directory:
