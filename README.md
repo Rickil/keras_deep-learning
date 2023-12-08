@@ -6,6 +6,8 @@
 
 Welcome to the "Infant Brain Segmentation" project! This deep learning project focuses on segmenting brain structures in T1- and T2-weighted MR images of infant subjects. The goal is to produce accurate segmentations using a UNet segmentation architecture.
 
+![mriScan](https://github.com/Rickil/keras_deep-learning/assets/38404628/477ebbff-c175-41d5-b8d6-fd7d7956c27d)
+
 ### Dataset
 
 #### Training Set
@@ -27,20 +29,6 @@ Welcome to the "Infant Brain Segmentation" project! This deep learning project f
 
 Employ the UNet segmentation architecture to develop an effective model for infant brain segmentation.
 
-### Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Rickil/deep-learning.git
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd deep-learning
-   ```
-
-3. Follow the instructions in the project documentation to set up your environment and execute the code.
-
 ### Important Note
 
 - The training set contains only 10 3D volumes, making it a challenging yet valuable dataset.
@@ -48,6 +36,10 @@ Employ the UNet segmentation architecture to develop an effective model for infa
 ### Results
 
 We aim to create a robust system for infant brain segmentation, producing the best possible results on the provided dataset. Processing the testing set and optimizing results through post-processing methods are key to achieving success.
+
+## Improvements
+
+We could use the upper and lower slices to add more context to a pixel.
 
 ## Project 2: Ship Classification with CNN
 
@@ -81,20 +73,6 @@ Welcome to the "Ship Classification with CNN" project! This deep learning projec
 ### Project Tasks
 
 Develop a CNN classifier that can accurately identify ship types from low-resolution images. Address the challenges of class imbalance and limited data through strategic data processing.
-
-### Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Rickil/deep-learning.git
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd deep-learning
-   ```
-
-3. Follow the instructions in the project documentation to set up your environment and execute the code.
 
 ### Important Note
 
