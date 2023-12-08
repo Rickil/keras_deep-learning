@@ -4,7 +4,7 @@
 
 ### Overview
 
-Welcome to the "Infant Brain Segmentation" project! This deep learning project focuses on segmenting brain structures in T1- and T2-weighted MR images of infant subjects. The goal is to produce accurate segmentations using a UNet segmentation architecture.
+Welcome to the "Infant Brain Segmentation" project! This deep learning project focuses on segmenting brain structures in T1- and T2-weighted MR images of infant subjects. The goal is to produce accurate segmentations using a UNet segmentation architecture on 3D images in format 144x192x256.
 
 ![mriScan](https://github.com/Rickil/keras_deep-learning/assets/38404628/477ebbff-c175-41d5-b8d6-fd7d7956c27d)
 
