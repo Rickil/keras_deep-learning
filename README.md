@@ -47,9 +47,10 @@ We could use the upper and lower slices to add more context to a pixel.
 
 Welcome to the "Ship Classification with CNN" project! This deep learning project aims to classify different types of ships using a Convolutional Neural Network (CNN) that is handcrafted with less than 30 layers.
 
+![iren](https://github.com/Rickil/keras_deep-learning/assets/38404628/24bd1aa8-6642-42c6-8bfa-213d19da7ad0)
+
 ### Dataset
 
-#### Overview
 - **Format:** Image files
 - **Resolution:** 16x24 pixels
 - **Contents:** Images of 10 different ship classes
